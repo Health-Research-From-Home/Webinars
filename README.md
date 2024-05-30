@@ -29,7 +29,7 @@ limitations under the License.
 
 Welcome to our Health Research From Home Webinars, we will have monthly webinars to share with you the update information from our project.
 
-You can find more details about our Health Research From Home project in this [LINK](https://github.com/Health-Research-From-Home/HealthResearchFromHome)).
+You can find more details about our Health Research From Home project in this [LINK](https://github.com/Health-Research-From-Home/HealthResearchFromHome).
 
 
 
