@@ -42,7 +42,7 @@ You can find more details about our Health Research From Home project in this [L
 | Time| **3 July 2024, 1-2PM** |
 | Highlight    | Join us for our inaugural webinar where Health Research from Home Lead, Professor Will Dixon explains more about:<br>• How our unique partnership came into being and who is involved.<br>• How we’re going to grow and support a community of people looking to conduct health research using smartphones and wearables.<br>• How we’re going to revolutionise health research by working with those living with long-term health conditions to improve their outcomes.<br>• Insights from Professor Dixon's previous study using smartphone data: [Cloudy with a Chance of Pain](https://www.cloudywithachanceofpain.com/) |
 | Booking   | [Book Now](https://zoom.us/webinar/register/WN_Za3BY9KWROGqCdhe7y0Qdw#/registration)|
-| Reading List   | [Cloudy with a Chance of Pain](https://www.cloudywithachanceofpain.com/) |
+| Reading List   | 1. [Cloudy with a Chance of Pain](https://www.cloudywithachanceofpain.com/) <br> 2. [Pre-Reading Papers](./Webinar_1/)  |
 
 #### Cloudy with a Chance of Pain
 https://github.com/Health-Research-From-Home/Webinars/assets/3505028/1dd74404-c733-4d63-b101-e59d78d50d23
