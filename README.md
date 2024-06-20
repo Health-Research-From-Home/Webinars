@@ -45,7 +45,12 @@ You can find more details about our Health Research From Home project in this [L
 | Reading List   | 1. [Cloudy with a Chance of Pain](https://www.cloudywithachanceofpain.com/) <br> 2. [Pre-Reading Papers](./Webinar_1/)  |
 
 #### Cloudy with a Chance of Pain
+
+https://github.com/Health-Research-From-Home/Webinars/assets/3505028/d5783baa-9937-403a-bea0-3ff8406d3d91
+
 https://github.com/Health-Research-From-Home/Webinars/assets/3505028/1dd74404-c733-4d63-b101-e59d78d50d23
+
+https://github.com/Health-Research-From-Home/Webinars/assets/3505028/08f3ab20-bd2f-4ae5-ab59-7195368279cc
 
 
 ## Webinar 2 - TBA
