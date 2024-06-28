@@ -48,7 +48,7 @@ You can find more details about our Health Research From Home project in this [L
 
 https://github.com/Health-Research-From-Home/Webinars/assets/3505028/d5783baa-9937-403a-bea0-3ff8406d3d91
 
-https://github.com/Health-Research-From-Home/Webinars/assets/3505028/1dd74404-c733-4d63-b101-e59d78d50d23
+https://github.com/Health-Research-From-Home/Webinars/assets/3505028/76d2d405-8627-4858-8dff-3140e0f32c95
 
 https://github.com/Health-Research-From-Home/Webinars/assets/3505028/08f3ab20-bd2f-4ae5-ab59-7195368279cc
 
