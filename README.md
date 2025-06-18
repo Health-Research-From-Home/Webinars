@@ -15,7 +15,7 @@ limitations under the License.
 -->
 
 <h2 align="center">
-    <p>Monthly Health Research from Home Webinar</p>
+    <p>Health Research from Home Webinars</p>
 
 <p align="center">
   <img alt="Uni Logo" src="Figures/Uni_logo.jpg"  height="80" style="max-width: 100%; display: inline-block;">
@@ -27,7 +27,7 @@ limitations under the License.
 
  <br />
 
-Welcome to our Health Research From Home Webinars, we will have monthly webinars to share with you the update information from our project.
+Welcome to our Health Research From Home Webinars
 
 [Learn more about Health Research from Home](https://github.com/Health-Research-From-Home/HealthResearchFromHome).
 
