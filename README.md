@@ -47,17 +47,6 @@ Welcome to our Health Research From Home Webinars
 <details>
 <summary><h2>Webinar 13 - PROGRESS: Lessons from an end-to-end robust digital clinical trial</h2></summary>
 
-| Info          | Description |
-|---------------|-------------|
-| Speaker 1     | Rajiv B. Kumar, M.D., physician-researcher on the Health team at Apple and works across a variety of internal and external research endeavors to support Apple’s Health features  |
-| Speaker 1 Bio | Rajiv continues patient care and teaching as a faculty member at Stanford Children’s Health, where he was formerly the Medical Director of Mobile Health. Dr. Kumar completed his BS at the University of Illinois, his MD and Pediatrics residency at Loyola University Chicago, and fellowship in Pediatric Endocrinology and Diabetes at Stanford University. |
-| Time          | **Wednesday 6 May, 2026, 4pm-5pm BST** |
-| Overview      | Join us for an exclusive webinar with Rajiv Kumar, a clinician-researcher at Apple, as he takes us behind the scenes of how some of the world’s most widely used digital health features are designed, validated, and brought to life. Rajiv will introduce Apple’s health journey from the development of the initial Heart Rate app on Apple Watch to developing a software-based Hearing Aid feature for AirPod Pro. He will also explore how Apple are leading large-public health studies after the work carried out in the Apple Heart Study, and how the Apple Investigator Support Program is facilitating novel research around the world. He will share insights into key issues when carrying out large health studies such as: data privacy and user control, and scientific rigour at scale.  The talk will last around 30 minutes, followed by a Q&A. |
-
-</details>
-
-<details>
-<summary><h2>Webinar 13 - PROGRESS: Lessons from an end-to-end robust digital clinical trial</h2></summary>
 
 | Info          | Description |
 |---------------|-------------|
@@ -261,13 +250,25 @@ https://github.com/Health-Research-From-Home/Webinars/assets/3505028/08f3ab20-bd
 
 
 ## Advice Clinics
-Alongside each webinar you will have the opportunity to book on to an Information Governance Clinic, a Patient and Public Involvement and Engagement Clinic, and a Tech Clinic to support you as you develop your own smartphone and wearable health research project.
+As part of the Health Research from Home programme, we are offering members of our community a unique opportunity to get detailed advice to advance their research.
 
-This is your chance to gain unique one-to-one advice with experts in their fields. This unprecedented access will allow you to discuss the specific issues holding your research back and gain practical advice on how to resolve these issues quickly and effectively.
+ 
 
-Despite case studies of good success, patient-generated health data research is yet to deliver at scale because of many challenges. We hope that these clinics will help to fill those gaps in knowledge, skill and tools so that we can make the UK a world-leader in this field of research.
+Our advice clinics allow you to get one-to-one guidance from patient and
+public involvement and engagement teams, information governance experts
+and technology specialists to support you during your research.
 
-<a href="https://outlook.office365.com/owa/calendar/HRfHClinics@live.manchester.ac.uk/bookings/" style="background-color: blue; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">Book Now</a>
+ 
+
+Example discussion points could include:
+
+<li>How to set up a PPIE group
+<li>Developing backend or frontend infrastructure to collect data
+<li>Applying for approvals
+....and more.
+
+
+<a href="mailto:hrfh@mancehster.ac.uk/" style="background-color: blue; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">Book Now</a>
 
 
 ## Find out more
