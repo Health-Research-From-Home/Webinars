@@ -31,8 +31,7 @@ Welcome to our Health Research From Home Webinars
 
 [Learn more about Health Research from Home](https://github.com/Health-Research-From-Home/HealthResearchFromHome).
 
-## Webinar 16 - Using digital health data to support early diagnosis of cardiovascular disease 
- ## 
+## Webinar 16 - Using digital health data to support early diagnosis of cardiovascular disease ## 
 
 
 | Info       | Description   |
